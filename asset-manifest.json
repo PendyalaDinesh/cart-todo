@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart-todo-app/static/css/main.a5d33661.css",
+    "main.js": "/cart-todo-app/static/js/main.1dc39a6a.js",
+    "index.html": "/cart-todo-app/index.html",
+    "main.a5d33661.css.map": "/cart-todo-app/static/css/main.a5d33661.css.map",
+    "main.1dc39a6a.js.map": "/cart-todo-app/static/js/main.1dc39a6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d33661.css",
+    "static/js/main.1dc39a6a.js"
+  ]
+}
