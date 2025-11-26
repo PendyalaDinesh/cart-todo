@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shopping-todo-app/static/css/main.a5d33661.css",
-    "main.js": "/shopping-todo-app/static/js/main.c43fb0c9.js",
-    "index.html": "/shopping-todo-app/index.html",
-    "main.a5d33661.css.map": "/shopping-todo-app/static/css/main.a5d33661.css.map",
-    "main.c43fb0c9.js.map": "/shopping-todo-app/static/js/main.c43fb0c9.js.map"
+    "main.css": "/cart-todo/static/css/main.a5d33661.css",
+    "main.js": "/cart-todo/static/js/main.1dc39a6a.js",
+    "index.html": "/cart-todo/index.html",
+    "main.a5d33661.css.map": "/cart-todo/static/css/main.a5d33661.css.map",
+    "main.1dc39a6a.js.map": "/cart-todo/static/js/main.1dc39a6a.js.map"
   },
   "entrypoints": [
     "static/css/main.a5d33661.css",
-    "static/js/main.c43fb0c9.js"
+    "static/js/main.1dc39a6a.js"
   ]
 }
