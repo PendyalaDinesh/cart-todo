@@ -1,0 +1,66 @@
+/* Page Gradient */
+.app-background {
+  min-height: 100vh;
+  padding: 40px 0;
+  background: linear-gradient(135deg, #6a85ff, #9de1ff);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* Central White Card */
+.app-container {
+  width: 90%;
+  max-width: 900px;
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 32px;
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.18);
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+}
+
+/* Header */
+.app-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.app-title {
+  font-size: 32px;
+  color: #1e1e2f;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* Navigation */
+.app-nav {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 22px;
+  border-radius: 8px;
+  background: #3e6bff;
+  color: white;
+  transition: all 0.25s ease;
+}
+
+.nav-link:hover {
+  background: #ff6b8a;
+  transform: translateY(-2px);
+}
+
+.nav-link.active {
+  background: #00c49a;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+}
+
+/* Main Content Area */
+.app-main {
+  margin-top: 20px;
+}
