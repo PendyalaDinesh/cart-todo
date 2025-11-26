@@ -45,7 +45,7 @@ export default function App() {
                   Click a menu option to begin
                 </h2>
               }
-            />
+            /> 
             <Route path="/cart" element={<ShoppingCart />} />
             <Route path="/todo" element={<TodoList />} />
             <Route
